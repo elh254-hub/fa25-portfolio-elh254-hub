@@ -13,6 +13,8 @@ image: /assets/images/engr2020thumbnail
 - [Updated Portfolio Assignment (PDF)]({{ "/projects/Updated Portfolio Assignment.pdf" | relative_url }})
 
 ### Images
-<img src="{{ '/projects/angle_vs_length.png' | relative_url }}" style="width:250px;">
-<img src="{{ '/projects/height_vs_length.png' | relative_url }}" style="width:250px;">
+
+![Angle vs Length]({{ "/projects/angle_vs_length.png" | relative_url }}){: style="max-width:250px; display:block; margin:auto;" }
+
+![Height vs Length]({{ "/projects/height_vs_length.png" | relative_url }}){: style="max-width:250px; display:block; margin:auto;" }
 
