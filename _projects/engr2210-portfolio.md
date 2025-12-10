@@ -1,6 +1,7 @@
 ---
 layout: project
 title: ENGRD 2210 Portfolio Assignment
+image: /assets/images/engr2210thumbnail
 ---
 
 ## ENGRD 2210 Portfolio Assignment
