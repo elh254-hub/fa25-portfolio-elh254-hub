@@ -23,5 +23,7 @@ Looking ahead, I hope to contribute to advanced equipment design, athletic engin
 
 Thanks for visiting my page, feel free to explore my engineering projects below. 
 
-##Projects
--[ENGRD 2210 Portfolio Assignment: Vapor-Compression Refrigeration Cycle Analysis]({{ "/_projects/ENGRD2210-Portfolio Problem.md" | relative_url }})
+## Projects
+
+- [ENGRD 2210 Portfolio Assignment]({{ "/projects/ENGRD 2210- Portfolio Assignment" | relative_url }})
+- [ENGRD 2020 Portfolio Problem]({{ "/projects/ENGRD 2020- Portfolio Problem" | relative_url }})
