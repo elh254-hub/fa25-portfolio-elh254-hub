@@ -12,5 +12,5 @@ title: Scissor Lift Analysis Project
 - [Updated Portfolio Assignment (PDF)]({{ "/projects/Updated Portfolio Assignment.pdf/" | relative_url }})
 
 ### Images
-- ![]({{ "/angle_vs_length.png" | relative_url }})
-- ![]({{ "/height_vs_length.png" | relative_url }})
+- ![]({{ "/projects/angle_vs_length.png/" | relative_url }})
+- ![]({{ "/projects/height_vs_length.png/" | relative_url }})
