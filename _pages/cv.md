@@ -8,12 +8,11 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
+**Email:** [elh254@cornell.edu](mailto:elh254@cornell.edu) | | | **Phone:** +217 617 5650
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring mechanical engineering student with strong leadership experience, hands-on work ethic, and growing technical skills. Seeking opportunities to apply engineering principles in real-world environments while contributing to team-based problem-solving and project execution.
 
 ---
 
@@ -28,10 +27,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 ---
 
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+#### Skills 
+- **Programming:** Python 
 
 ---
 
@@ -49,10 +46,16 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Carter's Coffee Bar] - Shift Leader**  
+  [Month, Year] - [Month, Year]
+  - Manage cash handling and customer service with efficiency and accuracy
+  - Build strong professional relationships with coworkers and supervisors
+- **[Carter's Coffee Bar] - Shift Leader**  
+  [Month, Year] - [Month, Year]
+  - Manage cash handling and customer service with efficiency and accuracy
+  - Build strong professional relationships with coworkers and supervisors
+
+  
 
 ---
 
