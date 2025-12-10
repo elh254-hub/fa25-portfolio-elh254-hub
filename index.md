@@ -1,7 +1,4 @@
----
-layout: home
-title: "Emma Harshberger"
----
+
 <style>
 body {
   font-family: "Georgia", serif;
