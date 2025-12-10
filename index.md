@@ -3,7 +3,7 @@ body {
   font-family: "Georgia", serif;
 }
 </style>
-![]({{ "/assets/images/Profile-pic.jpg" | relative_url }})
+<img src="{{ "/assets/images/Profile-pic.jpg" | relative_url }}" class="profile-pic">
 {:style="width:200px; border-radius:50%;"}
 ## About Me 
  
