@@ -25,5 +25,5 @@ Thanks for visiting my page, feel free to explore my engineering projects below.
 
 ## Projects
 
-- [ENGRD 2210 Portfolio Assignment]({{ "/projects/engr2210-portfolio/" | relative_url }})
-- [ENGRD 2020 Portfolio Problem]({{ "/projects/engr2020-portfolio/" | relative_url }})
+- [ENGRD 2210 Portfolio Assignment]({{ "/projects/engr2210-portfolio" | relative_url }})
+- [ENGRD 2020 Portfolio Problem]({{ "/projects/engr2020-portfolio" | relative_url }})
