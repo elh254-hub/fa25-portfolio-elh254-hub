@@ -1,8 +1,14 @@
 <style>
 body {
-  font-family: "Georigia", serif;
+  font-family: "Georgia", serif;
+}
+
+.profile-image {
+  width: 200px;
+  border-radius: 50%;
 }
 </style>
+
 ![Profile Picture]({{ "/assets/images/IMG_4853(1).jpg" | relative_url }}){: .profile-image }
 
 ## About Me 
