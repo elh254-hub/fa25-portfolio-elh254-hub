@@ -5,9 +5,9 @@ body {
 }
 </style>
 
-![Profile photo]({{ "/assets/images/Profile-pic.jpg" | relative_url }})
-{: style="width:90px; height:90px; object-fit:cover; display:block; margin-bottom:15px;" }
-  
+![Profile photo]({{ "/assets/images/profile.jpg" | relative_url }})
+{: style="width:90px; height:90px; object-fit:cover; display:block; margin:20px 0 15px 0;" }
+
 ## About Me 
  
 Hello! My name is Emma Harshberger, and I am studying Mechanical Engineering at Cornell University with a technical interest in engineering design, turbomachinery, and high-performance sports equipment. I am especially fascinated by how material science and mechanical systems influence athletic performance and product innovation.
