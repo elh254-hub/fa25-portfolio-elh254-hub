@@ -9,8 +9,19 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Hello! My name is Emma Harshberger, and I am studying Mechanical Engineering at Cornell University with a technical interest in engineering design, turbomachinery, and high-performance sports equipment. I am especially fascinated by how material science and mechanical systems influence athletic performance and product innovation.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My coursework has strengthened my interest in topics such as thermodynamics, solid mechanics, and materials engineering. Recently, I’ve been exploring how principles of solid mechanics and materials translate into industries ranging from medical prosthetics to engineered equipment in competitive athletics.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+In May 2026, I will begin a Mechanical Engineering Co-Op with Rawlings Sporting Goods, where I will be contributing to engineering development and performance research in professional-grade sports equipment through December 2026. As a long-time softball athlete, this opportunity uniquely blends my athletic background with my engineering goals.
+
+Outside academics, I am a member of the Cornell Softball Team. Competing at the Division-I level has not only shaped my discipline and teamwork, but also inspired my interest in the mechanical behavior, material properties, and design optimization behind elite sports technology.
+
+My engineering areas of interest include: 
+- Mechanical design
+- Solids mechanics and materials
+- Thermodynamics
+
+Looking ahead, I hope to contribute to advanced equipment design, athletic engineering, propulsion systems, or energy-based mechanical innovation where engineering design directly influences performance and new product development.
+
+Thanks for visiting my page, feel free to explore my engineering projects below. 
