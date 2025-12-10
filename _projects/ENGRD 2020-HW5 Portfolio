@@ -1,0 +1,9 @@
+
+---
+layout: project
+title: Updated Portfolio Assignment
+---
+
+## Updated Portfolio Assignment
+
+[Open PDF here]({{ "/Updated Portfolio Assignment.pdf" | relative_url }})
