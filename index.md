@@ -3,9 +3,8 @@ body {
   font-family: "Georgia", serif;
 }
 </style>
-<img src="{{ "/assets/images/Profile-pic.jpg" | relative_url }}"
-     style="width:150px; height:150px; border-radius:50%; object-fit:cover; display:block; margin:auto;">
-
+![]({{ "/assets/images/Profile-pic.jpg" | relative_url }})
+{: style="width:150px; height:150px; border-radius:50%; object-fit:cover; display:block; margin:auto;" }
 ## About Me 
  
 Hello! My name is Emma Harshberger, and I am studying Mechanical Engineering at Cornell University with a technical interest in engineering design, turbomachinery, and high-performance sports equipment. I am especially fascinated by how material science and mechanical systems influence athletic performance and product innovation.
