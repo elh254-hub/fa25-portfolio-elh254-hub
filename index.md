@@ -9,7 +9,7 @@ body {
 }
 </style>
 
-![Profile Picture]({{ "/assets/images/IMG_4853(1).jpg" | relative_url }}){: .profile-image }
+![Profile Picture]({{ "/assets/images/Profile-pic.jpg" | relative_url }}){: .profile-image }
 
 ## About Me 
  
