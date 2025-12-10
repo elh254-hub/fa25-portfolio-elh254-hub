@@ -14,8 +14,7 @@ image: /assets/images/engr2020thumbnail
 
 ### Images
 ![Angle vs Length]({{ "/projects/angle_vs_length.png" | relative_url }})
-{: style="display:block; margin:auto; width:60%;" }
+{: style="display:block; margin:15px auto; width:40%; max-width:250px;" }
 
 ![Height vs Length]({{ "/projects/height_vs_length.png" | relative_url }})
-{: style="display:block; margin:auto; width:60%;" }
-
+{: style="display:block; margin:15px auto; width:40%; max-width:250px;" }
