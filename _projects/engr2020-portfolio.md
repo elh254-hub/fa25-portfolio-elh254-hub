@@ -1,6 +1,7 @@
 ---
 layout: project
 title: ENGRD 2020 Portfolio
+image: /assets/images/engr2020thumbnail
 ---
 
 ## Scissor Lift Analysis Project
