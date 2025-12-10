@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Scissor Lift Analysis Project
+title: ENGRD 2020 Portfolio
 ---
 
 ## Scissor Lift Analysis Project
@@ -12,5 +12,8 @@ title: Scissor Lift Analysis Project
 - [Updated Portfolio Assignment (PDF)]({{ "/projects/Updated Portfolio Assignment.pdf" | relative_url }})
 
 ### Images
-- ![]({{ "/projects/angle_vs_length.png" | relative_url }})
-- ![]({{ "/projects/height_vs_length.png" | relative_url }})
+<p style="text-align:center;">
+  <img src="{{ "/assets/img/angle_vs_length.png" | relative_url }}" style="max-width:100%; height:auto;">
+  <img src="{{ "/assets/img/height_vs_length.png" | relative_url }}" style="max-width:100%; height:auto;">
+</p>
+
