@@ -16,12 +16,5 @@ title: ENGRD 2020 Portfolio
   <img src="{{ "/assets/img/angle_vs_length.png" | relative_url }}" style="max-width:100%; height:auto;">
   <img src="{{ "/assets/img/height_vs_length.png" | relative_url }}" style="max-width:100%; height:auto;">
 </p>
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 
