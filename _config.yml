@@ -14,6 +14,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Emma Harshberger"
 description              : Your Name - Projects and CV 
 baseurl                  : "/fa25-portfolio-elh254-hub" # Set this to your repo name 
+profile_image: "/assets/images/Profile-pic.jpg"
 
 # Theme and Style
 theme: jekyll-theme-minimal
