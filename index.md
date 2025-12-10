@@ -2,14 +2,7 @@
 body {
   font-family: "Georgia", serif;
 }
-
-.profile-image {
-  width: 200px;
-  border-radius: 50%;
-}
 </style>
-
-![Profile Picture]({{ "/assets/images/Profile-pic.jpg" | relative_url }}){: .profile-image }
 
 ## About Me 
  
