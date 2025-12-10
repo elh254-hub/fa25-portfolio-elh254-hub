@@ -6,8 +6,10 @@ title: "Emma Harshberger"
 body {
   font-family: "Georgia", serif;
 }
-<img src="{{ "/assets/images/Profile-pic.jpg" | relative_url }}"
-     style="width:150px; height:150px; border-radius:50%; object-fit:cover; display:block; margin:auto;">
+</style>
+
+<img src="{{ "/assets/images/Profile-pic.jpeg" | relative_url }}"
+     style="width:90px; height:90px; object-fit:cover; display:block; margin-bottom:15px;">
   
 ## About Me 
  
