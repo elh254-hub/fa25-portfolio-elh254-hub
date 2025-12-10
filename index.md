@@ -5,7 +5,7 @@ body {
 }
 </style>
 
-![Profile photo]({{ "/assets/images/profile.jpg" | relative_url }})
+![]({{ "/assets/images/Profile-pic.jpg" | relative_url }})
 {: style="width:90px; height:90px; object-fit:cover; display:block; margin:20px 0 15px 0;" }
 
 ## About Me 
