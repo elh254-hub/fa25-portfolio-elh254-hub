@@ -22,3 +22,6 @@ My engineering areas of interest include:
 Looking ahead, I hope to contribute to advanced equipment design, athletic engineering, propulsion systems, or energy-based mechanical innovation where engineering design directly influences performance and new product development.
 
 Thanks for visiting my page, feel free to explore my engineering projects below. 
+
+##Projects
+-[ENGRD 2210 Portfolio Assignment: Vapor-Compression Refrigeration Cycle Analysis]({{ "/_projects/ENGRD2210-Portfolio Problem.md" | relative_url }})
