@@ -3,12 +3,15 @@ layout: project
 title: MAE 2250 Open Design Project
 description: Class project on mitigating SLF presence in grape harvests
 technologies:
-image: /assets/images/PosterSketch.jpg
+image: 
 ---
 
 ## Project Navigation
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
+
+
+
 
 ## Client Pitch
 
@@ -60,6 +63,9 @@ During the harvest process, before collection, separate juice from the grape-bug
 </figure>
 
 ---
+
+
+
 
 ## Functional Prototype
 
