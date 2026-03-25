@@ -5,10 +5,9 @@ description: Class project on mitigating SLF presence in grape harvests
 technologies:
 ---
 
-##Project Navigation
+## Project Navigation
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
-
 
 ---
 
