@@ -29,4 +29,4 @@ Thanks for visiting my page, feel free to explore my engineering projects below.
 
 - [ENGRD 2210 Portfolio Assignment]({{ "/projects/engr2210-portfolio" | relative_url }})
 - [ENGRD 2020 Portfolio Problem]({{ "/projects/engr2020-portfolio" | relative_url }})
-- [MAE 2250 Open Design Project]({{ "/projects/MAE-2250-Client-Outline.md" | relative_url }})
+- [MAE 2250 Open Design Project]({{ "/_projects/MAE-2250-Client-Outline.md" | relative_url }})
