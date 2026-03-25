@@ -15,7 +15,7 @@ technologies:
 
 ---
 
-# Spotted Lanternfly Presence During Mechanical Harvesting
+## Spotted Lanternfly Presence During Mechanical Harvesting
 
 **Team:** Tree of Hell  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
