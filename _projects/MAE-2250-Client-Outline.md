@@ -13,6 +13,8 @@ technologies:
 
 ## Client Pitch
 
+---
+
 # Spotted Lanternfly Presence During Mechanical Harvesting
 
 **Team:** Tree of Hell  
