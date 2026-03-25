@@ -1,11 +1,14 @@
 ---
 layout: project
-title: MAE 2250 Client Outline
-description: Class project on client outline for design
+title: MAE 2250 Open Design Project
+description: Class project on mitigating SLF's in grape harvests
 technologies:
 image: /assets/images/PosterSketch.jpg
 ---
-
+## Project Navigation
+- [Client Pitch](#client-pitch)
+- [Functional Prototype](#functional-prototype)
+##Client Pitch
 # Spotted Lanternfly Presence During Mechanical Harvesting
 
 **Team:** Tree of Hell. **Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape
@@ -51,3 +54,34 @@ Prototype of water tunnel with filters. Grapes flow through and SLFs are success
        style="width: 100%;">
   <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
     <strong>Preliminary sketches of prototype ideas developed so far.
+
+## Functional Prototype
+
+**Purpose:**  
+The prototype is designed to separate grape juice from solid material during mechanical harvesting in order to prevent spotted lanternfly contamination. The system focuses on filtering liquid early in the process so that bugs and solids do not enter the final product stream.
+
+**What was tested:**  
+The prototype consists of a perforated PVC tray supported by an adjustable aluminum frame and stabilized using a cable suspension system. The perforated sheet allows grape juice to pass through while retaining solids. The system was tested under both static and dynamic conditions. Load testing was performed by placing distributed weight across the tray to simulate grape harvest conditions. Additionally, an oscillation test was conducted by manually displacing the tray to evaluate stability and response to movement during harvesting. :contentReference[oaicite:0]{index=0}  
+
+**Outcome:**  
+The prototype successfully demonstrated strong structural performance and effective filtration capability. Under load, the system showed minimal deflection and no structural failure, confirming that the combination of aluminum rods and cable tension effectively distributes forces. During oscillation testing, the system exhibited controlled motion that dampened naturally, indicating stability under dynamic conditions. :contentReference[oaicite:1]{index=1}  
+
+The design met key success criteria including supporting at least 15 kg, maintaining stability under uneven loading, and enabling adjustable height through a pin-based mechanism. The prototype also demonstrated the ability to separate liquid from solids efficiently, supporting the feasibility of reducing contamination during harvest. :contentReference[oaicite:2]{index=2}  
+
+**Next Steps:**  
+Future improvements include integrating a motor to generate controlled oscillations to enhance filtration efficiency and prevent clogging, as well as improving the dowel pin mechanism for easier adjustment and reliability in field conditions. :contentReference[oaicite:3]{index=3}  
+
+## Figure
+
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ "C:\Users\harsh\Downloads\IMG_4882.jpeg" | relative_url }}" 
+       alt="Image of Completed Functional Prototype"  
+       style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
+    <strong>Image of Completed Functional Prototype
+<figure style="text-align: center; width: 100%;">
+  <img src="{{ "C:\Users\harsh\Downloads\IMG_5295.jpeg" | relative_url }}" 
+       alt="Initial Design Sketch- Pivoted Design"  
+       style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: #2b2b2bff;">
+    <strong>Initial Design Sketch- Pivoted Design
