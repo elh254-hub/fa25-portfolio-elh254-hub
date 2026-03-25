@@ -3,7 +3,6 @@ layout: project
 title: MAE 2250 Open Design Project
 description: Class project on mitigating SLF presence in grape harvests
 technologies:
-image: 
 ---
 
 ## Project Navigation
@@ -11,7 +10,7 @@ image:
 - [Functional Prototype](#functional-prototype)
 
 
-
+---
 
 ## Client Pitch
 
