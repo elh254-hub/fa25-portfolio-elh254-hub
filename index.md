@@ -16,13 +16,13 @@ From May 2026 through December 2026, I am completing a Mechanical Engineering Co
 
 My core technical interests include:
 
-Mechanical design and rapid hardware iteration
+- Mechanical design and rapid hardware iteration
 
-Solid mechanics, material performance, and structural analysis
+- Solid mechanics, material performance, and structural analysis
 
-Thermodynamics, fluid systems, and turbomachinery
+- Thermodynamics, fluid systems, and turbomachinery
 
-High-performance sports equipment innovation and cross-industry exploration
+- High-performance sports equipment innovation and cross-industry exploration
 
 Looking ahead, I hope to contribute to advanced mechanical innovation, high-performance product development, and rigorous testing environments where hands-on engineering directly shapes reliability and performance.
 
