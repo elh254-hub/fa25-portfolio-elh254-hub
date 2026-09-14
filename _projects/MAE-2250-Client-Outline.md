@@ -80,14 +80,14 @@ image: /assets/images/prototypemounted.jpg
   <h3>MAE 2250 Open Design Project</h3>
   <p>This project focuses on mitigating spotted lanternfly contamination during mechanical grape harvesting by preserving usable grape juice and separating liquid from solid material before final collection.</p>
 
-  <a href="#client-pitch">Client Pitch</a>
+  <a href="#client-pitch">Client Pitch & Design Evolution</a>
   <a href="#functional-prototype">Functional Prototype</a>
   <a href="#client-report">Client Report</a>
 </div>
 
 <section id="client-pitch" class="project-section" markdown="1">
 
-## Client Pitch
+## Client Pitch & Design Evolution
 
 ### Spotted Lanternfly Presence During Mechanical Harvesting
 
@@ -99,8 +99,8 @@ image: /assets/images/prototypemounted.jpg
 **Purpose:**  
 The project is designed to address spotted lanternfly contamination during mechanical grape harvesting by separating grape juice from solid material before the final collection stage.
 
-**What Was Proposed:**  
-The proposed design separates juice from the grape-bug mixture, then separates bugs from grapes, and finally recombines the grapes and juice during collection.
+**Initial Proposal vs. Final Direction:**  
+While our initial pitch relied on an aggressive pressurized water tunnel and centrifugal separation concept, direct feedback from our industry clients required us to pivot toward a simpler, less destructive mechanical filtration system. 
 
 </div>
 
@@ -112,29 +112,25 @@ Currently for growers in upstate New York during the harvest process of vineyard
 
 We address the problem at a single point in the harvest process. This modular attachment lowers cost and enables a more efficient harvest by minimizing wasted and dumped product.
 
-### Proposed Direction
+### Design Evolution: From Initial Concept to Final Pivot
 
-During the harvest process, before collection, separate juice from the grape-bug mixture, then separate bugs from grapes. Then combine the grapes and juice again in the collection process.
+#### The Initial Concept (Pressurized Water Tunnel)
+Initially, our primary concept proposed a complex **pressurized water tunnel and centrifugal separation system** placed in-line between the harvester and collection systems. The theoretical goal was to use high-pressure water streams to actively force and wash grapes away from SLFs before remixing the filtered juice.
 
-### Primary Concept
+#### Client Feedback and Real-World Constraints
+Following our initial client pitch, consultations with our partners at Cornell CALS Extension, E&J Gallo Winery, and National Grape revealed critical operational constraints that rendered our initial concept unfeasible:
+* **Excessive Juice Loss & Quality Degradation:** High-pressure water introduction would overly dilute the grape must and rupture too many un-crushed berries prematurely, ruining juice quality parameters.
+* **Packaging and Space Constraints:** Harvester gondola environments have very strict spatial limits; a heavy, complex pressurized tunnel and centrifugal setup could not be easily retrofitted onto existing commercial harvester chassis.
+* **Maintenance & Reliability:** Complex fluid dynamics systems in muddy, sticky harvest environments would suffer from severe clogging and high mechanical failure rates.
 
-**What it is:**  
-A pressurized water tunnel used to separate grapes and SLFs. It can use water pressure or centrifugal force. The design filters juice, then filters SLFs, then remixes the juice and grapes.
-
-**How it would be used:**  
-The apparatus would be placed in-line between the harvester and collection systems.
-
-**Why it is better than the status quo:**  
-It prevents SLFs from entering the final harvest collection and saves excess or needed grape juice for product production.
-
-**End-of-semester proof of concept:**  
-A prototype of the filtration system that shows grapes flowing through while SLFs are successfully separated.
+#### The Pivot
+Based on this critical client feedback, we pivoted away from active fluid dynamics toward a **passive-to-active mechanical separation system**. Instead of pressurized tunnels, we focused our design on a modular, cable-suspended, vibrating perforated tray that fits cleanly inside existing gondolas—successfully separating juice and solids without altering the chemical integrity of the harvest or adding overly complex machinery.
 
 ### Client Pitch Sketch
 
 <figure class="full-image">
   <img src="{{ '/assets/images/PosterSketch.jpg' | relative_url }}" alt="Preliminary prototype sketch">
-  <figcaption>Preliminary prototype sketch from the client pitch stage.</figcaption>
+  <figcaption>Preliminary prototype sketch from the client pitch stage reflecting our initial water-tunnel concept.</figcaption>
 </figure>
 
 </section>
@@ -150,7 +146,7 @@ A prototype of the filtration system that shows grapes flowing through while SLF
 <div class="project-card" markdown="1">
 
 **Purpose:**  
-The prototype is designed to separate grape juice from solid material during mechanical harvesting to prevent spotted lanternfly contamination.
+The prototype is designed to separate grape juice from solid material during mechanical harvesting to prevent spotted lanternfly contamination, embodying our revised, client-aligned design philosophy.
 
 **What Was Tested:**  
 A perforated tray supported by an adjustable aluminum frame and cable system was tested under load and oscillation conditions to simulate harvesting.
