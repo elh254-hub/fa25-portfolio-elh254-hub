@@ -1,9 +1,9 @@
 
 ---
 layout: project
-title: Updated Portfolio Assignment
+title: Updated Analysis
 ---
 
-## Updated Portfolio Assignment
+## Updated Analysis
 
 [Open PDF here]({{ "/Updated Portfolio Assignment.pdf" | relative_url }})
