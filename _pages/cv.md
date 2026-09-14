@@ -5,8 +5,6 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
-
 
 **Email:** [harshbergeremma@gmail.com](mailto:harshbergeremma@gmail.com) | **Phone:** +217 617 5650
 ---
